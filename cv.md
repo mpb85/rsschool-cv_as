@@ -21,8 +21,8 @@ Frontend developer, looking for an entry level position in the company. My goal 
 ## Software skills 
  
 
-| Javascript(ES6+) | HTML | CSS | React | Redux | Rest API | Ajax | Json | Git | 
-|------------------|------|-----|-------|-------|----------|------|------|-----|
+| Javascript(ES6+) | HTML | CSS | React | Redux | Rest API | Ajax | Json | Git | NodJS |
+|------------------|------|-----|-------|-------|----------|------|------|-----|-------|
 
 --------------------------------------------------
 ## Project
